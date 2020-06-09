@@ -1,0 +1,19 @@
+{
+  "name": "bar-chart",
+  "version": "1.0.0",
+  "description": "A bar chart utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Marx/bar-chart.git"
+  },
+  "author": "Alan Marx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-Marx/bar-chart/issues"
+  },
+  "homepage": "https://github.com/Alan-Marx/bar-chart#readme"
+}
