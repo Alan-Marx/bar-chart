@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alan-Marx/bar-chart/issues"
   },
-  "homepage": "https://github.com/Alan-Marx/bar-chart#readme"
+  "homepage": "https://github.com/Alan-Marx/bar-chart#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
 }
